@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34701.34
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "telefonkonyv", "telefonkonyv\telefonkonyv.csproj", "{62417115-EF79-42BD-94BD-7E946413608E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{62417115-EF79-42BD-94BD-7E946413608E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{62417115-EF79-42BD-94BD-7E946413608E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{62417115-EF79-42BD-94BD-7E946413608E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{62417115-EF79-42BD-94BD-7E946413608E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F7085A11-F73E-49AC-AE0F-8C7830DD4789}
+	EndGlobalSection
+EndGlobal
